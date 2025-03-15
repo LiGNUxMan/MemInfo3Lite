@@ -1,4 +1,4 @@
-# MemInfo3lite (Memory Information 3 Lite )
+# MemInfo3Lite (Memory Information 3 Lite )
 
 **Versión:** 20250314a 4.1.0c  
 **Autor:** Axel O'BRIEN (LiGNUxMan) y ChatGPT  
