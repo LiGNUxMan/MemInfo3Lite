@@ -2,7 +2,7 @@
 
 **Versión:** 20250314ag 4.1.0c  
 **Autor:** Axel O'BRIEN (LiGNUxMan) y ChatGPT  
-**Based on:** The original mem_info.py script for Python 2 by p@draigBrady.com.
+**Basado en:** El script original mem_info.py pata Python2 de p@draigBrady.com.
 **Licencia:** GPLv3  
 
 ## Descripción
