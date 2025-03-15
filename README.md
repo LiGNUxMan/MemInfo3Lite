@@ -1,9 +1,9 @@
 # MemInfo3Lite (Memory Information 3 Lite)
 ## 🇺🇸🇬🇧 English
 
-**Version:** 20250314a 4.1.0c
-**Author:** Axel O'BRIEN (LiGNUxMan) and ChatGPT
-**Based on:** The original mem_info.py script for Python2 by p@draigBrady.com.
+**Version:** 20250314a 4.1.0c  
+**Author:** Axel O'BRIEN (LiGNUxMan) and ChatGPT  
+**Based on:** The original mem_info.py script for Python2 by p@draigBrady.com.  
 **License:** GPLv3
 
 ## Description
