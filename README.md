@@ -48,10 +48,10 @@ sudo python3 mem_info3_lite.py
 
 ### Periodic execution (every X seconds)
 ```bash
-sudo ./mem_info3_lite.py 5 # Refresh every 5 seconds
+sudo ./mem_info3_lite.py 60 # Refresh every 60 seconds
 ```
 ```bash
-sudo python3 mem_info3_lite.py 5 # Refresh every 5 seconds
+sudo python3 mem_info3_lite.py 60 # Refresh every 60 seconds
 ```
 
 ## Example exit
@@ -147,10 +147,10 @@ sudo python3 mem_info3_lite.py
 
 ### Ejecución periódica (cada X segundos)
 ```bash
-sudo ./mem_info3_lite.py 5  # Refresca cada 5 segundos
+sudo ./mem_info3_lite.py 60  # Refresca cada 60 segundos
 ```
 ```bash
-sudo python3 mem_info3_lite.py 5 # Refresca cada 5 segundos
+sudo python3 mem_info3_lite.py 60 # Refresca cada 60 segundos
 ```
 
 ## Ejemplo de salida
