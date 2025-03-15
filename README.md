@@ -102,7 +102,7 @@ If you need changes or more details, let me know and we'll adjust them.
 
 **Versión:** 20250314a 4.1.0c  
 **Autor:** Axel O'BRIEN (LiGNUxMan) y ChatGPT  
-**Basado en:** El script original mem_info.py pata Python2 de p@draigBrady.com.
+**Basado en:** El script original mem_info.py pata Python2 de p@draigBrady.com.  
 **Licencia:** GPLv3  
 
 ## Descripción
